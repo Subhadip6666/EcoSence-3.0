@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "EcoSence 3.0",
+  "description": ""
+}
